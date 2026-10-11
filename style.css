@@ -311,8 +311,8 @@ footer {
 }
 
 @media(max-width: 768px) {
-    
-    .navbar{
+
+    .navbar {
         flex-direction: column;
         gap: 20px;
         padding: 20px;
@@ -324,11 +324,11 @@ footer {
         padding: 40px 20px;
     }
 
-    .hero-content h1{
+    .hero-content h1 {
         font-size: 40px;
     }
 
-    .hero-image{
+    .hero-image {
         width: 220px;
         height: 220px;
     }
