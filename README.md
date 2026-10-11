@@ -17,7 +17,7 @@ Welcome to my portfolio This website introduces me, my skills, and my projects.
 - Navigation bar 
 - About Me section 
 - Skills section
-- Projects section
+- Project section
 - Contact section
 
 ## Project Structure
